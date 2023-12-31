@@ -1,0 +1,16 @@
+AUGMENTATION: True
+IMAGE_SIZE: [224, 224,3]
+BATCH_SIZE: 32
+INCLUDE_TOP: False
+EPOCHS: 20
+CLASSES: 4
+WEIGHTS: imagenet
+LEARNING_RATE: 0.01
+featurewise_center: True
+featurewise_std_normalization: True
+rotation_range: 20
+width_shift_range: 0.2
+height_shift_range: 0.2
+horizontal_flip: True
+validation_split: 0.2
+rescale: 0.00392156863

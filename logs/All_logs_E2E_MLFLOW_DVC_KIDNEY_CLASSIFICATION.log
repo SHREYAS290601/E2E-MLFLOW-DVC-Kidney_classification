@@ -1,0 +1,92 @@
+[2023-12-31 14:40:20,300 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2023-12-31 14:40:20,302 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2023-12-31 14:40:20,304 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2023-12-31 14:40:20,304 : INFO : common : Created Directory : artifacts : ]
+[2023-12-31 14:40:20,305 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2023-12-31 14:40:20,305 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2023-12-31 14:40:49,045 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2023-12-31 14:40:53,803 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2023-12-31 14:40:53,803 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2023-12-31 14:40:53,805 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2023-12-31 14:40:53,807 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2023-12-31 14:40:53,807 : INFO : common : Created Directory : artifacts : ]
+[2023-12-31 14:40:53,807 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2023-12-31 14:40:54,825 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2023-12-31 14:40:56,446 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2023-12-31 14:40:56,446 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2023-12-31 14:40:56,446 : ERROR : main : __init__() missing 16 required positional arguments: 'model_file_path', 'data_file_path', 'train_history', 'save_weights_path', 'IMAGE_SIZE', 'BATCH_SIZE', 'EPOCHS', 'CLASSES', 'featurewise_center', 'featurewise_std_normalization', 'rotation_range', 'width_shift_range', 'height_shift_range', 'horizontal_flip', 'validation_split', and 'rescale' : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 32, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 12, in main
+    config = TrainConfigs()
+TypeError: __init__() missing 16 required positional arguments: 'model_file_path', 'data_file_path', 'train_history', 'save_weights_path', 'IMAGE_SIZE', 'BATCH_SIZE', 'EPOCHS', 'CLASSES', 'featurewise_center', 'featurewise_std_normalization', 'rotation_range', 'width_shift_range', 'height_shift_range', 'horizontal_flip', 'validation_split', and 'rescale'
+[2023-12-31 14:44:58,861 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2023-12-31 14:44:58,864 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2023-12-31 14:44:58,866 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2023-12-31 14:44:59,290 : INFO : common : Created Directory : artifacts : ]
+[2023-12-31 14:44:59,444 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2023-12-31 14:44:59,445 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2023-12-31 14:45:10,671 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2023-12-31 14:45:16,075 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2023-12-31 14:45:16,075 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2023-12-31 14:45:16,077 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2023-12-31 14:45:16,079 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2023-12-31 14:45:16,080 : INFO : common : Created Directory : artifacts : ]
+[2023-12-31 14:45:16,156 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2023-12-31 14:45:17,235 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2023-12-31 14:45:18,374 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2023-12-31 14:45:18,375 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2023-12-31 14:45:18,377 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2023-12-31 14:45:18,379 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2023-12-31 14:45:18,380 : INFO : common : Created Directory : artifacts : ]
+[2023-12-31 14:45:18,396 : ERROR : main : name 'np' is not defined : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 32, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 15, in main
+    train_model.train()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 20, in train
+    self.load_data(self, self.config.data_file_path)
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 90, in load_data
+    img = np.array(img)
+NameError: name 'np' is not defined
+[2023-12-31 14:45:51,895 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2023-12-31 14:45:51,899 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2023-12-31 14:45:51,901 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2023-12-31 14:45:51,902 : INFO : common : Created Directory : artifacts : ]
+[2023-12-31 14:45:51,902 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2023-12-31 14:45:51,903 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2023-12-31 14:46:05,183 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2023-12-31 14:46:09,876 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2023-12-31 14:46:09,876 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2023-12-31 14:46:09,878 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2023-12-31 14:46:09,881 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2023-12-31 14:46:09,881 : INFO : common : Created Directory : artifacts : ]
+[2023-12-31 14:46:09,881 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2023-12-31 14:46:10,878 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2023-12-31 14:46:12,117 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2023-12-31 14:46:12,117 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2023-12-31 14:46:12,119 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2023-12-31 14:46:12,121 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2023-12-31 14:46:12,122 : INFO : common : Created Directory : artifacts : ]
+[2023-12-31 14:46:17,795 : INFO : model_train : Data Loaded : ]
+[2023-12-31 14:46:21,203 : INFO : model_train : Data Augmentation Done : ]
+[2023-12-31 14:46:22,564 : INFO : model_train : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2023-12-31 14:53:11,283 : INFO : model_train : Saving history at artifacts/model_train/train_history.json : ]
+[2023-12-31 14:53:11,285 : INFO : model_train : Model is saved at artifacts/prepare_base_model/base_model_update.h5 : ]
+[2023-12-31 14:53:11,321 : INFO : main : >>>>>> stage Train Model completed <<<<<<
+
+ : ]

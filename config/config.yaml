@@ -1,0 +1,20 @@
+artifacts_roots: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+
+
+prepare_base_model:
+  root_dir: artifacts/prepare_base_model
+  base_model_path: artifacts/prepare_base_model/base_model.h5
+  updated_base_model_path: artifacts/prepare_base_model/base_model_update.h5
+
+
+model_train:
+  model_file_path: artifacts/prepare_base_model/base_model_update.h5
+  data_file_path: artifacts/data_ingestion/New
+  train_history: artifacts/model_train/train_history.json
+  save_weights_path: artifacts/model_train/model_weights
