@@ -90,3 +90,1091 @@ NameError: name 'np' is not defined
 [2023-12-31 14:53:11,321 : INFO : main : >>>>>> stage Train Model completed <<<<<<
 
  : ]
+[2024-01-01 19:23:43,299 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:23:43,307 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:23:43,308 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:25:11,453 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:25:11,457 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:25:11,459 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:25:20,084 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:25:20,089 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:25:20,091 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:25:35,939 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:25:35,943 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:25:35,945 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:25:52,013 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:25:52,016 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:25:52,017 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:26:54,805 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:26:54,809 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:26:54,810 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:27:06,390 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:27:06,394 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:27:06,395 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:29:40,732 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:29:40,737 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:29:40,741 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:29:47,465 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:29:47,469 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:29:47,470 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:29:58,878 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:29:58,881 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:29:58,883 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:30:00,516 : INFO : 1194311856 : Data Loaded : ]
+[2024-01-01 19:30:19,815 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:30:19,819 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:30:19,820 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:30:20,502 : INFO : 1046006220 : Data Loaded : ]
+[2024-01-01 19:31:06,696 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:31:06,699 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:31:06,701 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:31:07,395 : INFO : 2473958915 : Data Loaded : ]
+[2024-01-01 19:31:38,266 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:31:38,269 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:31:38,270 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:31:38,999 : INFO : 1053961999 : Data Loaded : ]
+[2024-01-01 19:36:14,616 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:36:14,619 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:36:14,621 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:36:15,296 : INFO : 2039647740 : Data Loaded : ]
+[2024-01-01 19:36:41,897 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:36:41,901 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:36:41,903 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:36:42,624 : INFO : 2890645273 : Data Loaded : ]
+[2024-01-01 19:36:57,888 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:36:57,891 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:36:57,893 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:36:58,592 : INFO : 2890645273 : Data Loaded : ]
+[2024-01-01 19:37:16,473 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:37:16,477 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:37:16,479 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:37:17,185 : INFO : 204256649 : Data Loaded : ]
+[2024-01-01 19:38:54,272 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:38:54,276 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:38:54,277 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:38:54,948 : INFO : 3363594010 : Data Loaded : ]
+[2024-01-01 19:38:58,908 : INFO : 3363594010 : Model is loaded from artifacts/model_train/model_weights/weigths.h5 : ]
+[2024-01-01 19:43:25,461 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:43:25,464 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:43:25,466 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:43:26,132 : INFO : 1244421413 : Data Loaded : ]
+[2024-01-01 19:43:28,247 : INFO : 1244421413 : Model is loaded from artifacts/model_train/model_weights/weigths.h5 : ]
+[2024-01-01 19:43:32,974 : INFO : 1244421413 : Loss: 1.6984180212020874 : ]
+[2024-01-01 19:43:32,975 : INFO : 1244421413 : Accuracy: 0.976190447807312 : ]
+[2024-01-01 19:43:32,976 : INFO : 1244421413 : Accuracy is 97.6190447807312% : ]
+[2024-01-01 19:44:17,062 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-01 19:44:17,065 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-01 19:44:17,066 : INFO : common : Created Directory : artifacts : ]
+[2024-01-01 19:44:17,742 : INFO : 1063786012 : Data Loaded : ]
+[2024-01-01 19:44:19,655 : INFO : 1063786012 : Model is loaded from artifacts/model_train/model_weights/weigths.h5 : ]
+[2024-01-01 19:44:23,523 : INFO : 1063786012 : Loss: 1.6396616697311401 : ]
+[2024-01-01 19:44:23,529 : INFO : 1063786012 : Accuracy: 0.9642857313156128 : ]
+[2024-01-01 19:44:23,536 : INFO : 1063786012 : Accuracy is 96.42857313156128% : ]
+[2024-01-01 19:44:37,742 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-01 19:44:42,129 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpx7oce_iq\model\data\model\assets : ]
+[2024-01-02 11:55:31,621 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 11:55:32,016 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 11:55:32,022 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 11:55:32,024 : ERROR : 1844658335 : start_run() got an unexpected keyword argument 'uri' : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1844658335.py", line 5, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\2393819034.py", line 8, in train
+    with mlflow.start_run(uri="https://dagshub.com/SHREYAS290601/E2E-MLFLOW-DVC-Kidney_classification.mlflow"):
+TypeError: start_run() got an unexpected keyword argument 'uri'
+[2024-01-02 12:00:43,457 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:00:43,463 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:00:43,465 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:01:01,610 : INFO : 3213185102 : Data Loaded : ]
+[2024-01-02 12:01:06,176 : INFO : 3213185102 : Data Augmentation Done : ]
+[2024-01-02 12:01:10,532 : INFO : 3213185102 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 12:07:11,417 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:07:11,422 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:07:11,424 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:07:11,906 : ERROR : 1844658335 : INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'} : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1844658335.py", line 5, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1910694169.py", line 9, in train
+    with mlflow.start_run() as run:
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 151, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'}
+[2024-01-02 12:10:58,586 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:10:58,591 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:10:58,593 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:10:59,876 : ERROR : 1844658335 : INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'} : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1844658335.py", line 5, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1910694169.py", line 9, in train
+    with mlflow.start_run() as run:
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 151, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'}
+[2024-01-02 12:14:06,192 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:14:06,196 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:14:06,198 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:14:06,709 : ERROR : 1844658335 : INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'} : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1844658335.py", line 5, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\4165700669.py", line 9, in train
+    with mlflow.start_run() as run:
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 151, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'}
+[2024-01-02 12:14:53,326 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:14:53,330 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:14:53,332 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:14:53,879 : ERROR : 1844658335 : INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'} : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1844658335.py", line 5, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\243045638.py", line 9, in train
+    with mlflow.start_run() as run:
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 151, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'}
+[2024-01-02 12:15:06,971 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:15:06,976 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:15:06,978 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:15:07,498 : ERROR : 1844658335 : INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'} : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1844658335.py", line 5, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\2671376181.py", line 9, in train
+    with mlflow.start_run():
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 151, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'}
+[2024-01-02 12:21:24,911 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:21:24,915 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:21:24,917 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:21:25,449 : ERROR : 3857029425 : INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'} : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\3857029425.py", line 6, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\2671376181.py", line 9, in train
+    with mlflow.start_run():
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 151, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'}
+[2024-01-02 12:25:20,552 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:25:20,557 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:25:20,559 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:25:30,291 : INFO : 2671376181 : Data Loaded : ]
+[2024-01-02 12:25:35,554 : INFO : 2671376181 : Data Augmentation Done : ]
+[2024-01-02 12:25:37,861 : INFO : 2671376181 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 12:26:36,618 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 12:26:36,621 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 12:26:36,624 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 12:26:45,164 : INFO : 2671376181 : Data Loaded : ]
+[2024-01-02 12:26:50,146 : INFO : 2671376181 : Data Augmentation Done : ]
+[2024-01-02 12:26:52,971 : INFO : 2671376181 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 12:32:50,414 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 12:32:54,684 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmp236no4ck\model\data\model\assets : ]
+[2024-01-02 12:33:56,107 : ERROR : 2770626194 : 'TrainConfigs' object has no attribute 'items' : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\2770626194.py", line 7, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\2671376181.py", line 19, in train
+    mlflow.log_params(params=self.config)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 862, in log_params
+    params_arr = [Param(key, str(value)) for key, value in params.items()]
+AttributeError: 'TrainConfigs' object has no attribute 'items'
+[2024-01-02 13:58:32,208 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 13:58:32,222 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 13:58:32,225 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 13:58:50,919 : INFO : 2000920568 : Data Loaded : ]
+[2024-01-02 13:58:56,266 : INFO : 2000920568 : Data Augmentation Done : ]
+[2024-01-02 13:58:59,335 : INFO : 2000920568 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 14:05:15,893 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:05:21,031 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpqzla93jx\model\data\model\assets : ]
+[2024-01-02 14:06:29,503 : ERROR : 2770626194 : 'TrainConfigs' object is not iterable : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\2770626194.py", line 7, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\2000920568.py", line 18, in train
+    mlflow.log_params(params=dict(self.config))
+TypeError: 'TrainConfigs' object is not iterable
+[2024-01-02 14:09:34,990 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:09:34,994 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:09:34,995 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:09:55,587 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:09:55,595 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:09:55,601 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:10:34,087 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:10:34,092 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:10:34,095 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:10:34,096 : ERROR : 3216605085 : 'TrainConfigs' object has no attribute 'item' : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\3216605085.py", line 5, in <module>
+    print(train_model.config.item())
+AttributeError: 'TrainConfigs' object has no attribute 'item'
+[2024-01-02 14:10:39,878 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:10:39,882 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:10:39,883 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:10:39,884 : ERROR : 1621693023 : 'TrainConfigs' object has no attribute 'items' : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\1621693023.py", line 5, in <module>
+    print(train_model.config.items())
+AttributeError: 'TrainConfigs' object has no attribute 'items'
+[2024-01-02 14:10:58,504 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:10:58,511 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:10:58,514 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:11:32,276 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:11:32,283 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:11:32,286 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:11:59,346 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:11:59,351 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:11:59,354 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:12:12,587 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:12:12,594 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:12:12,601 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:12:28,499 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:12:28,504 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:12:28,506 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:12:37,493 : INFO : 3689578041 : Data Loaded : ]
+[2024-01-02 14:12:42,709 : INFO : 3689578041 : Data Augmentation Done : ]
+[2024-01-02 14:12:46,184 : INFO : 3689578041 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 14:19:16,050 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:19:16,058 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:19:16,061 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:19:31,470 : INFO : 3243541827 : Data Loaded : ]
+[2024-01-02 14:19:37,505 : INFO : 3243541827 : Data Augmentation Done : ]
+[2024-01-02 14:19:41,182 : INFO : 3243541827 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 14:20:34,027 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:20:34,031 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:20:34,032 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:20:43,723 : INFO : 518541852 : Data Loaded : ]
+[2024-01-02 14:20:48,575 : INFO : 518541852 : Data Augmentation Done : ]
+[2024-01-02 14:20:50,184 : INFO : 518541852 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 14:27:02,687 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:27:07,558 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpl_g0tdfm\model\data\model\assets : ]
+[2024-01-02 14:28:14,370 : ERROR : 3250153062 : INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'} : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\3250153062.py", line 8, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_67680\518541852.py", line 19, in train
+    mlflow.log_params(params=dict(self.config.__dict__))
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 863, in log_params
+    return MlflowClient().log_batch(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 1093, in log_batch
+    return self._tracking_client.log_batch(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 444, in log_batch
+    self.store.log_batch(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 323, in log_batch
+    self._call_endpoint(LogBatch, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 151, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INVALID_PARAMETER_VALUE: Response: {'error_code': 'INVALID_PARAMETER_VALUE'}
+[2024-01-02 14:34:56,726 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:34:56,733 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:34:56,735 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:34:58,675 : ERROR : 3250153062 : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\3250153062.py", line 8, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\1955151046.py", line 9, in train
+    with mlflow.start_run():
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-02 14:35:46,104 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:35:46,108 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:35:46,109 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:35:46,858 : ERROR : 3250153062 : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\3250153062.py", line 8, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\1955151046.py", line 9, in train
+    with mlflow.start_run():
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-02 14:38:25,496 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:38:25,503 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:38:25,505 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:38:34,554 : INFO : 1955151046 : Data Loaded : ]
+[2024-01-02 14:38:38,938 : INFO : 1955151046 : Data Augmentation Done : ]
+[2024-01-02 14:38:40,734 : INFO : 1955151046 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 14:39:37,920 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:39:42,166 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpt077_b4h\model\data\model\assets : ]
+[2024-01-02 14:40:30,715 : ERROR : 3250153062 : module 'mlflow' has no attribute 'keras' : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\3250153062.py", line 8, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\1955151046.py", line 21, in train
+    mlflow.keras.log_model(model, "MobileNetV2_Train")
+AttributeError: module 'mlflow' has no attribute 'keras'
+[2024-01-02 14:42:58,460 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:42:58,464 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:42:58,465 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:43:07,711 : INFO : 299610448 : Data Loaded : ]
+[2024-01-02 14:43:13,639 : INFO : 299610448 : Data Augmentation Done : ]
+[2024-01-02 14:43:15,712 : INFO : 299610448 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 14:44:08,068 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:44:11,980 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmphay65evt\model\data\model\assets : ]
+[2024-01-02 14:44:57,393 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:45:01,084 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmp8sra3p_1\model\data\model\assets : ]
+[2024-01-02 14:45:33,556 : INFO : 299610448 : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-02 14:45:33,954 : ERROR : 3250153062 : 'str' object has no attribute 'items' : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\3250153062.py", line 8, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\299610448.py", line 25, in train
+    mlflow.log_metrics(json.dumps(history.history))
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 825, in log_metrics
+    metrics_arr = [Metric(key, value, timestamp, step or 0) for key, value in metrics.items()]
+AttributeError: 'str' object has no attribute 'items'
+[2024-01-02 14:48:52,657 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:48:52,662 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:48:52,663 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:49:02,324 : INFO : 688299771 : Data Loaded : ]
+[2024-01-02 14:49:07,546 : INFO : 688299771 : Data Augmentation Done : ]
+[2024-01-02 14:49:10,398 : INFO : 688299771 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 14:50:01,733 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:50:05,709 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmphchqe98_\model\data\model\assets : ]
+[2024-01-02 14:50:49,454 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:50:53,005 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpx4lnjayf\model\data\model\assets : ]
+[2024-01-02 14:51:22,597 : INFO : 688299771 : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-02 14:51:22,977 : ERROR : 3250153062 : name 'history' is not defined : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\3250153062.py", line 8, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\688299771.py", line 25, in train
+    mlflow.log_metrics(dict(history.history))
+NameError: name 'history' is not defined
+[2024-01-02 14:51:43,075 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:51:43,080 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:51:43,082 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:51:53,958 : INFO : 2197781552 : Data Loaded : ]
+[2024-01-02 14:51:58,295 : INFO : 2197781552 : Data Augmentation Done : ]
+[2024-01-02 14:52:00,980 : INFO : 2197781552 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 14:52:51,450 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:52:55,456 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpcsdhrpvx\model\data\model\assets : ]
+[2024-01-02 14:53:41,405 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 14:53:45,331 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpi08wwquf\model\data\model\assets : ]
+[2024-01-02 14:54:14,773 : INFO : 2197781552 : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-02 14:54:15,174 : ERROR : 3250153062 : [47.85451126098633] has type list, but expected one of: int, long, float : ]
+Traceback (most recent call last):
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\3250153062.py", line 8, in <module>
+    train_model.train()
+  File "C:\Users\Shreyas\AppData\Local\Temp\ipykernel_68832\2197781552.py", line 25, in train
+    mlflow.log_metrics(dict(hist.history))
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 826, in log_metrics
+    return MlflowClient().log_batch(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 1093, in log_batch
+    return self._tracking_client.log_batch(
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 459, in log_batch
+    self.store.log_batch(run_id=run_id, metrics=metrics_batch, params=[], tags=[])
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 317, in log_batch
+    metric_protos = [metric.to_proto() for metric in metrics]
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 317, in <listcomp>
+    metric_protos = [metric.to_proto() for metric in metrics]
+  File "e:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\entities\metric.py", line 39, in to_proto
+    metric.value = self.value
+TypeError: [47.85451126098633] has type list, but expected one of: int, long, float
+[2024-01-02 14:59:43,971 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 14:59:43,979 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 14:59:43,982 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 14:59:53,441 : INFO : 1200640191 : Data Loaded : ]
+[2024-01-02 14:59:59,457 : INFO : 1200640191 : Data Augmentation Done : ]
+[2024-01-02 15:00:01,985 : INFO : 1200640191 : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 15:00:58,408 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 15:01:02,128 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpj6bcd5es\model\data\model\assets : ]
+[2024-01-02 15:02:05,473 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-02 15:02:09,078 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmp0ach15wa\model\data\model\assets : ]
+[2024-01-02 15:02:38,731 : INFO : 1200640191 : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-02 15:02:38,735 : INFO : 1200640191 : Model is saved at artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-02 15:09:40,317 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-02 15:09:40,418 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:09:40,420 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:09:40,535 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:09:40,614 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-02 15:09:40,615 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:10:09,596 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:10:15,052 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-02 15:10:15,052 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-02 15:10:15,056 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:10:15,058 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:10:15,059 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:10:15,167 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-02 15:10:16,329 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-02 15:10:17,422 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-02 15:10:17,423 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-02 15:10:17,425 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:10:17,428 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:10:17,429 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:10:19,358 : ERROR : main : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 32, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 20, in main
+    train_model.train()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 28, in train
+    with mlflow.start_run():
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-02 15:11:16,563 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-02 15:11:16,566 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:11:16,568 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:11:16,568 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:11:16,569 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-02 15:11:16,569 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:11:28,466 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:11:33,385 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-02 15:11:33,385 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-02 15:11:33,388 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:11:33,390 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:11:33,390 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:11:33,391 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-02 15:11:34,524 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-02 15:11:35,644 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-02 15:11:35,645 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-02 15:11:35,647 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:11:35,650 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:11:35,650 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:11:39,282 : ERROR : main : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 32, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 20, in main
+    train_model.train()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 28, in train
+    with mlflow.start_run():
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-02 15:15:01,661 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-02 15:15:01,664 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:15:01,666 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:15:01,667 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:15:01,667 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-02 15:15:01,668 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:15:15,330 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:15:20,390 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-02 15:15:20,391 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-02 15:15:20,393 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:15:20,396 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:15:20,396 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:15:20,397 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-02 15:15:21,732 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-02 15:15:23,135 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-02 15:15:23,135 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-02 15:15:23,138 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:15:23,141 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:15:23,141 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:15:24,614 : ERROR : main : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 37, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 17, in main
+    train_model.train()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 28, in train
+    with mlflow.start_run():
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-02 15:18:47,765 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-02 15:18:47,768 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:18:47,770 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:18:47,771 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:18:47,771 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-02 15:18:47,771 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:19:00,947 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:19:05,961 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-02 15:19:05,961 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-02 15:19:05,963 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:19:05,966 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:19:05,966 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:19:05,966 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-02 15:19:07,014 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-02 15:19:08,082 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-02 15:19:08,083 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-02 15:19:08,085 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:19:08,087 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:19:08,088 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:19:08,943 : ERROR : main : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 34, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 17, in main
+    train_model.train()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 32, in train
+    with mlflow.start_run():
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-02 15:24:39,870 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-02 15:24:39,873 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:24:39,878 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:24:39,880 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:24:39,880 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-02 15:24:39,881 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:24:52,368 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:24:57,062 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-02 15:24:57,063 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-02 15:24:57,065 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:24:57,067 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:24:57,068 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:24:57,068 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-02 15:24:58,100 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-02 15:24:59,162 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-02 15:24:59,163 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-02 15:24:59,167 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:24:59,170 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:24:59,170 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:25:00,466 : ERROR : main : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 32, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 15, in main
+    train_model.train()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 34, in train
+    with mlflow.start_run():
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-02 15:32:26,958 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-02 15:32:26,961 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:32:26,963 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:32:26,963 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:32:26,964 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-02 15:32:26,964 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:32:39,353 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-02 15:32:44,115 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-02 15:32:44,115 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-02 15:32:44,118 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:32:44,120 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:32:44,121 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:32:44,121 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-02 15:32:45,160 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-02 15:32:46,289 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-02 15:32:46,289 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-02 15:32:46,292 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-02 15:32:46,294 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-02 15:32:46,295 : INFO : common : Created Directory : artifacts : ]
+[2024-01-02 15:32:50,637 : ERROR : main : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 32, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 15, in main
+    train_model.train()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 36, in train
+    with mlflow.start_run():
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-04 20:45:24,738 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-04 20:45:24,741 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:45:24,752 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:45:24,781 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:45:24,807 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-04 20:45:24,807 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 20:45:48,873 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 20:45:54,531 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-04 20:45:54,531 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-04 20:45:54,533 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:45:54,535 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:45:54,536 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:45:54,633 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-04 20:45:57,098 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-04 20:45:58,313 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-04 20:45:58,314 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-04 20:45:58,316 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:45:58,319 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:45:58,320 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:46:08,046 : ERROR : main : API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '' : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 32, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_03_train_model.py", line 15, in main
+    train_model.train()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_train.py", line 36, in train
+    with mlflow.start_run():
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\fluent.py", line 374, in start_run
+    active_run_obj = client.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\client.py", line 339, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 132, in create_run
+    return self.store.create_run(
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 178, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\store\tracking\rest_store.py", line 59, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 219, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "E:\MLOPS-E2E-Kidney_Classification\venv\lib\site-packages\mlflow\utils\rest_utils.py", line 157, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-01-04 20:53:44,766 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-04 20:53:44,768 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:53:44,770 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:53:44,771 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:53:44,772 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-04 20:53:44,772 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 20:53:57,363 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 20:54:02,059 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-04 20:54:02,059 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-04 20:54:02,061 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:54:02,063 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:54:02,064 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:54:02,064 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-04 20:54:03,052 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-04 20:54:04,116 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-04 20:54:04,116 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-04 20:54:04,121 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:54:04,124 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:54:04,125 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:54:12,028 : INFO : model_train : Data Loaded : ]
+[2024-01-04 20:54:15,518 : INFO : model_train : Data Augmentation Done : ]
+[2024-01-04 20:54:16,943 : INFO : model_train : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 20:56:09,116 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-04 20:56:09,119 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:56:09,121 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:56:09,121 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:56:09,121 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-04 20:56:09,122 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 20:56:31,193 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 20:56:36,041 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-04 20:56:36,041 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-04 20:56:36,043 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:56:36,045 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:56:36,046 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:56:36,046 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-04 20:56:37,042 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-04 20:56:38,087 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-04 20:56:38,087 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-04 20:56:38,090 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 20:56:38,094 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 20:56:38,094 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 20:56:44,412 : INFO : model_train : Data Loaded : ]
+[2024-01-04 20:56:47,663 : INFO : model_train : Data Augmentation Done : ]
+[2024-01-04 20:56:48,867 : INFO : model_train : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 20:57:22,543 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 20:57:26,176 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmp5wzsr_jj\model\data\model\assets : ]
+[2024-01-04 20:57:52,884 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 20:57:56,111 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpwvt4o7js\model\data\model\assets : ]
+[2024-01-04 20:58:08,480 : INFO : model_train : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-04 20:58:08,482 : INFO : model_train : Model is saved at artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 20:58:08,509 : INFO : main : >>>>>> stage Train Model completed <<<<<<
+
+ : ]
+[2024-01-04 21:07:58,163 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-04 21:07:58,166 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 21:07:58,168 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 21:07:58,168 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 21:07:58,169 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-04 21:07:58,169 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 21:08:10,641 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 21:08:15,296 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-04 21:08:15,297 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-04 21:08:15,299 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 21:08:15,302 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 21:08:15,302 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 21:08:15,302 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-04 21:08:16,281 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-04 21:08:17,347 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-04 21:08:17,348 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-04 21:08:17,350 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 21:08:17,353 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 21:08:17,353 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 21:08:24,032 : INFO : model_train : Data Loaded : ]
+[2024-01-04 21:08:27,352 : INFO : model_train : Data Augmentation Done : ]
+[2024-01-04 21:08:28,921 : INFO : model_train : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 21:09:08,226 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 21:09:11,178 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpuch0t2u2\model\data\model\assets : ]
+[2024-01-04 21:09:46,162 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 21:09:49,048 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpqb9otfp4\model\data\model\assets : ]
+[2024-01-04 21:10:11,044 : INFO : model_train : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-04 21:10:11,046 : INFO : model_train : Model is saved at artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 21:10:11,469 : INFO : main : >>>>>> stage Train Model completed <<<<<<
+
+ : ]
+[2024-01-04 21:17:47,994 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-04 21:17:47,996 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 21:17:47,998 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 21:17:47,999 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 21:17:47,999 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-04 21:17:48,000 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 21:18:01,171 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 21:18:05,872 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-04 21:18:05,873 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-04 21:18:05,877 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 21:18:05,879 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 21:18:05,879 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 21:18:05,880 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-04 21:18:06,867 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-04 21:18:07,973 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-04 21:18:07,974 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-04 21:18:07,976 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 21:18:07,978 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 21:18:07,980 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 21:18:15,077 : INFO : model_train : Data Loaded : ]
+[2024-01-04 21:18:18,131 : INFO : model_train : Data Augmentation Done : ]
+[2024-01-04 21:18:19,256 : INFO : model_train : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 21:25:14,997 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 21:25:18,283 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpbfom16wq\model\data\model\assets : ]
+[2024-01-04 21:25:55,578 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 21:25:58,594 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpy042vw8h\model\data\model\assets : ]
+[2024-01-04 21:26:20,656 : INFO : model_train : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-04 21:26:20,658 : INFO : model_train : Model is saved at artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 21:26:21,057 : INFO : main : >>>>>> stage Train Model completed <<<<<<
+
+ : ]
+[2024-01-04 22:12:39,895 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-04 22:12:39,898 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 22:12:39,900 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 22:12:39,900 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 22:12:39,901 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-04 22:12:39,901 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 22:12:53,227 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 22:12:58,023 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-04 22:12:58,023 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-04 22:12:58,026 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 22:12:58,028 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 22:12:58,029 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 22:12:58,030 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-04 22:12:59,056 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-04 22:13:00,113 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-04 22:13:00,113 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-04 22:13:00,115 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 22:13:00,122 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 22:13:00,123 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 22:13:07,367 : INFO : model_train : Data Loaded : ]
+[2024-01-04 22:13:10,670 : INFO : model_train : Data Augmentation Done : ]
+[2024-01-04 22:13:12,121 : INFO : model_train : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 22:20:06,945 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 22:20:10,219 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpybilacxu\model\data\model\assets : ]
+[2024-01-04 22:20:48,359 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 22:20:51,505 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpjh8yqvhi\model\data\model\assets : ]
+[2024-01-04 22:21:13,567 : INFO : model_train : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-04 22:21:13,569 : INFO : model_train : Model is saved at artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 22:21:13,962 : INFO : main : >>>>>> stage Train Model completed <<<<<<
+
+ : ]
+[2024-01-04 22:59:19,064 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-04 22:59:19,067 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 22:59:19,069 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 22:59:19,069 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 22:59:19,070 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-04 22:59:19,070 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 22:59:36,865 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 22:59:42,070 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-04 22:59:42,070 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-04 22:59:42,073 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 22:59:42,075 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 22:59:42,076 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 22:59:42,076 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-04 22:59:43,056 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-04 22:59:44,259 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-04 22:59:44,259 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-04 22:59:44,262 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 22:59:44,266 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 22:59:44,268 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 22:59:52,325 : INFO : model_train : Data Loaded : ]
+[2024-01-04 22:59:56,100 : INFO : model_train : Data Augmentation Done : ]
+[2024-01-04 22:59:57,452 : INFO : model_train : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 23:07:02,691 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 23:07:06,109 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpla2qmn2o\model\data\model\assets : ]
+[2024-01-04 23:07:43,973 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 23:07:46,977 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpl3sp39w4\model\data\model\assets : ]
+[2024-01-04 23:08:09,378 : INFO : model_train : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-04 23:08:09,380 : INFO : model_train : Model is saved at artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 23:08:09,798 : INFO : main : >>>>>> stage Train Model completed <<<<<<
+
+ : ]
+[2024-01-04 23:08:09,799 : INFO : main : >>>>>> stage Evaluate Model started <<<<<< : ]
+[2024-01-04 23:08:09,801 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 23:08:09,804 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 23:08:09,804 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 23:08:10,392 : INFO : model_eval : Data Loaded : ]
+[2024-01-04 23:08:11,689 : INFO : model_eval : Model is loaded from artifacts/model_train/model_weights/weigths.h5 : ]
+[2024-01-04 23:08:14,457 : INFO : model_eval : Loss: 1.9315356016159058 : ]
+[2024-01-04 23:08:14,457 : INFO : model_eval : Accuracy: 0.8690476417541504 : ]
+[2024-01-04 23:08:14,457 : INFO : model_eval : Accuracy is 86.90476417541504% : ]
+[2024-01-04 23:08:14,458 : ERROR : main : name 'urlparse' is not defined : ]
+Traceback (most recent call last):
+  File "E:\MLOPS-E2E-Kidney_Classification\main.py", line 49, in <module>
+    data_ingestion.main()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\pipeline\stage_04_model_eval.py", line 17, in main
+    eval_model.log_into_mlflow()
+  File "E:\MLOPS-E2E-Kidney_Classification\src\CNN\components\model_eval.py", line 42, in log_into_mlflow
+    tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
+NameError: name 'urlparse' is not defined
+[2024-01-04 23:11:19,284 : INFO : main : >>>>>> stage Data Ingestion stage started <<<<<< : ]
+[2024-01-04 23:11:19,287 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 23:11:19,289 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 23:11:19,289 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 23:11:19,290 : INFO : common : Created Directory : artifacts/data_ingestion : ]
+[2024-01-04 23:11:19,290 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 23:11:33,619 : INFO : data_ingestion : Downloaded data from https://drive.google.com/file/d/1nldZZ-2VEAxCkzbDLnMkTyaQiaRk5dsj/view?usp=sharing into file artifacts/data_ingestion/data.zip : ]
+[2024-01-04 23:11:38,256 : INFO : main : >>>>>> stage Data Ingestion stage completed <<<<<<
+
+ : ]
+[2024-01-04 23:11:38,256 : INFO : main : >>>>>> stage Prepare Base Model started <<<<<< : ]
+[2024-01-04 23:11:38,260 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 23:11:38,262 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 23:11:38,263 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 23:11:38,263 : INFO : common : Created Directory : artifacts/prepare_base_model : ]
+[2024-01-04 23:11:39,257 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model. : ]
+[2024-01-04 23:11:40,336 : INFO : main : >>>>>> stage Prepare Base Model completed <<<<<<
+
+ : ]
+[2024-01-04 23:11:40,336 : INFO : main : >>>>>> stage Train Model started <<<<<< : ]
+[2024-01-04 23:11:40,340 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 23:11:40,343 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 23:11:40,344 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 23:11:47,794 : INFO : model_train : Data Loaded : ]
+[2024-01-04 23:11:51,240 : INFO : model_train : Data Augmentation Done : ]
+[2024-01-04 23:11:52,408 : INFO : model_train : Model is loaded from artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 23:18:57,111 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 23:19:00,415 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpvrcdzdfz\model\data\model\assets : ]
+[2024-01-04 23:19:36,941 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 23:19:39,989 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmps1020744\model\data\model\assets : ]
+[2024-01-04 23:20:02,021 : INFO : model_train : Saving history at artifacts/model_train/train_history.json : ]
+[2024-01-04 23:20:02,024 : INFO : model_train : Model is saved at artifacts/prepare_base_model/base_model_update.h5 : ]
+[2024-01-04 23:20:02,439 : INFO : main : >>>>>> stage Train Model completed <<<<<<
+
+ : ]
+[2024-01-04 23:20:02,440 : INFO : main : >>>>>> stage Evaluate Model started <<<<<< : ]
+[2024-01-04 23:20:02,442 : INFO : common : Yaml File : config\config.yaml Loaded Successfully : ]
+[2024-01-04 23:20:02,447 : INFO : common : Yaml File : params.yaml Loaded Successfully : ]
+[2024-01-04 23:20:02,450 : INFO : common : Created Directory : artifacts : ]
+[2024-01-04 23:20:03,060 : INFO : model_eval : Data Loaded : ]
+[2024-01-04 23:20:04,345 : INFO : model_eval : Model is loaded from artifacts/model_train/model_weights/weigths.h5 : ]
+[2024-01-04 23:20:07,109 : INFO : model_eval : Loss: 0.006323164328932762 : ]
+[2024-01-04 23:20:07,110 : INFO : model_eval : Accuracy: 1.0 : ]
+[2024-01-04 23:20:07,110 : INFO : model_eval : Accuracy is 100.0% : ]
+[2024-01-04 23:20:17,944 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading. : ]
+[2024-01-04 23:20:20,966 : INFO : builder_impl : Assets written to: C:\Users\Shreyas\AppData\Local\Temp\tmpty37h45p\model\data\model\assets : ]
+[2024-01-04 23:20:45,530 : INFO : main : >>>>>> stage Evaluate Model completed <<<<<<
+
+ : ]

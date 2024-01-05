@@ -18,3 +18,7 @@ model_train:
   data_file_path: artifacts/data_ingestion/New
   train_history: artifacts/model_train/train_history.json
   save_weights_path: artifacts/model_train/model_weights
+
+model_eval:
+  model_weight_path: artifacts/model_train/model_weights/weigths.h5
+  data_file_path: artifacts/data_ingestion/New

@@ -2,6 +2,7 @@ from src.CNN.config.configuration import ModelConfig
 from src.CNN.components.model_train import TrainModel
 import os
 from src.CNN import logger
+import mlflow
 
 
 class TrainModelPipeline:
@@ -17,6 +18,10 @@ class TrainModelPipeline:
 
 if __name__ == "__main__":
     try:
+        mlflow.set_tracking_uri(
+            uri="https://dagshub.com/SHREYAS290601/E2E-MLFLOW-DVC-Kidney_classification.mlflow"
+        )
+        mlflow.set_experiment("Kidney_classification_train")
         logger.info("********************************************************")
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
         obj = TrainModelPipeline()

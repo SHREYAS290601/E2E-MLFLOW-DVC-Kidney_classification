@@ -1,7 +1,12 @@
 from src.CNN.constants import *
 import os
 from src.CNN.utils.common import read_yaml, create_directories, save_json
-from src.CNN.entity.config_entity import DataIngestionConfig, PrepareBaseModelConfig,TrainConfigs
+from src.CNN.entity.config_entity import (
+    DataIngestionConfig,
+    PrepareBaseModelConfig,
+    TrainConfigs,
+    EvalConfig,
+)
 
 
 class ConfigManager:
@@ -81,4 +86,28 @@ class ModelConfig:
             self.params.horizontal_flip,
             self.params.validation_split,
             self.params.rescale,
+        )
+
+
+class EvalModelManager:
+    def __init__(
+        self, config_filepath=CONFIG_FILE_PATH, params_filepath=PARAMS_FILE_PATH
+    ):
+        self.config = read_yaml(config_filepath)
+        self.params = read_yaml(params_filepath)
+
+        create_directories([self.config.artifacts_roots])
+
+    def evaluate_model_config(self) -> EvalConfig:
+        config = self.config.model_eval
+        # print(config)
+        # create_directories([config.root_dir])
+
+        return EvalConfig(
+            path_to_model=config.model_weight_path,
+            training_data=config.data_file_path,
+            mlflow_uri=os.getenv("MLFLOW_TRACKING_URI"),
+            all_params=self.params,
+            params_image_size=self.params.IMAGE_SIZE,
+            params_batch=self.params.BATCH_SIZE,
         )

@@ -3,3 +3,4 @@
 /research
 *__pycache__
 /artifacts/data_ingestion
+/mlruns

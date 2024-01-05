@@ -9,6 +9,13 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from src.CNN import logger
 from src.CNN.entity.config_entity import TrainConfigs
 import numpy as np
+import mlflow
+import os
+import mlflow.keras
+
+os.environ["KERAS_BACKEND"] = "tensorflow"
+import keras
+import time
 
 
 class TrainModel:
@@ -18,20 +25,24 @@ class TrainModel:
         self.class_name = []
 
     def train(self):
-        self.load_data(self, self.config.data_file_path)
-        train, valid = self.preprocess_data(self)
-        model = load_model("./artifacts/prepare_base_model/base_model_update.h5")
-        logger.info(f"Model is loaded from {self.config.model_file_path}")
-        history = model.fit_generator(
-            train,
-            epochs=self.config.EPOCHS,
-            validation_data=(valid),
-        )
-        model.save(f"{self.config.save_weights_path}/weights.h5")
-        with open(f"{self.config.train_history}", "w") as f:
-            json.dump(history.history, f)
-            logger.info(f"Saving history at {self.config.train_history}")
-        logger.info(f"Model is saved at {self.config.model_file_path}")
+        mlflow.keras.autolog()
+        with mlflow.start_run():
+            mlflow.set_tag("mlflow.runName", f"MobileNetV2_Train_{time.time()}")
+            self.load_data(self, self.config.data_file_path)
+            train, valid = self.preprocess_data(self)
+            model = load_model("./artifacts/prepare_base_model/base_model_update.h5")
+            logger.info(f"Model is loaded from {self.config.model_file_path}")
+            history = model.fit(
+                train,
+                epochs=self.config.EPOCHS,
+                validation_data=(valid),
+            )
+            model.save(f"{self.config.save_weights_path}/weights.h5")
+            mlflow.keras.log_model(model, "MobileNetV2_Train")
+            with open(f"{self.config.train_history}", "w") as f:
+                json.dump(history.history, f)
+                logger.info(f"Saving history at {self.config.train_history}")
+            logger.info(f"Model is saved at {self.config.model_file_path}")
         # print("Model is saved at {}".format(self.config.model_file_path))
 
     @staticmethod

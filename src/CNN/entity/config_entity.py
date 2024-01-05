@@ -43,3 +43,12 @@ class TrainConfigs:
     horizontal_flip: bool
     validation_split: float
     rescale: float
+
+@dataclass(frozen=True)
+class EvalConfig:
+    path_to_model: Path
+    training_data: Path
+    all_params: dict
+    mlflow_uri: str
+    params_image_size: list
+    params_batch: int
